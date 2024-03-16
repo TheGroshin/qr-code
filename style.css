@@ -1,0 +1,27 @@
+img {
+    border-radius: 3%;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: white;
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+}
+
+.text {
+    margin-left: 20px;
+}
+
+.para {
+    margin-left: 20px;
+    opacity: 0.9;
+}
